@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '趋势洞察、想法落地促进您的竞争力;彼此信赖，彼此成就', // 英雄区文字
+  STARTER_HERO_TITLE_1: '趋势洞察、想法落地;彼此信赖，彼此成就', // 英雄区文字
   STARTER_HERO_TITLE_2: '值得您长期信赖', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '关于我们', // 英雄区按钮
